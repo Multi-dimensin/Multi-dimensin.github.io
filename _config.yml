@@ -28,7 +28,7 @@ title: Multi-dimension‘s blog
 email: 3035524835@qq.com
 author: GitHub User
 theme: My blog
-# You can use any html code, currently below placeholders are available:
+
 # * current year: {currentYear}
 # * author: {author} (Value is the same as site.author)
 # * copyright: (c) - ©
