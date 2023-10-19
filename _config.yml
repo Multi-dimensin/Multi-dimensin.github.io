@@ -160,9 +160,9 @@ yat:
 
 # Page default value
 # defaults:
-  home:
-   heading: "The good try"
-   subheading: "My determination"
+#  home:
+#   heading: "The good try"
+#   subheading: "My determination"
 #    banner: "Your image url"
 
 # Banner default settings
